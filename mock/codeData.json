@@ -1,0 +1,1261 @@
+{
+    "data": [
+    {
+        "category": "Imports",
+        "list": [
+        {
+            "code": "101",
+            "description": "Imports: Advance Payments (not in terms of Letter of Undertaking)",
+            "sub": [
+            {
+                "code": "01",
+                "description": "Payment related to goods (excluding capital goods, gold, platinum, crude oil, refined petroleum products, diamonds, steel, coal, iron ore and goods imported via the South African Post Office)",
+                "sub": null
+            },
+            {
+                "code": "02",
+                "description": "Payment related to goods classified as – Capital goods",
+                "sub": null
+            },
+            {
+                "code": "03",
+                "description": "Payment related to goods classified as – Metal",
+                "sub": [
+                {
+                    "code": "01",
+                    "description": "Payment related to goods classified as – Gold"
+                },
+                {
+                    "code": "02",
+                    "description": "Payment related to goods classified as – platinum"
+                },
+                {
+                    "code": "03",
+                    "description": "Payment related to goods classified as – Steel"
+                },
+                {
+                    "code": "04",
+                    "description": "Payment related to goods classified as – Aluminium"
+                },
+                {
+                    "code": "05",
+                    "description": "Payment related to goods classified as – Iron ore"
+                }]
+            },
+            {
+                "code": "04",
+                "description": "Payment related to goods classified as– Crude oil",
+                "sub": null
+            },
+            {
+                "code": "05",
+                "description": "Payment related to goods classified as– Refined petroleum products",
+                "sub": null
+            },
+            {
+                "code": "06",
+                "description": "Payment related to goods classified as – Diamonds",
+                "sub": null
+            },
+            {
+                "code": "07",
+                "description": "Payment related to goods classified as – Coal",
+                "sub": null
+            },
+            {
+                "code": "08",
+                "description": "Payment related to goods Imported via the Post Office",
+                "sub": null
+            }]
+        },
+        {
+            "code": "102",
+            "description": "Imports: Advance payments in terms of Letter of Undertaking",
+            "sub": [
+            {
+                "code": "01",
+                "description": "Payment related to goods (excluding capital goods, gold, platinum, crude oil, refined petroleum products, diamonds, steel, coal, iron ore and goods imported via the South African Post Office)",
+                "sub": null
+            },
+            {
+                "code": "02",
+                "description": "Payment related to goods classified as – Capital goods",
+                "sub": null
+            },
+            {
+                "code": "03",
+                "description": "Payment related to goods classified as – Gold",
+                "sub": null
+            },
+            {
+                "code": "04",
+                "description": "Payment related to goods classified as– Platinum",
+                "sub": null
+            },
+            {
+                "code": "05",
+                "description": "Payment related to goods classified as– Crude oil",
+                "sub": null
+            },
+            {
+                "code": "06",
+                "description": "Payment related to goods classified as– Refined petroleum products",
+                "sub": null
+            },
+            {
+                "code": "07",
+                "description": "Payment related to goods classified as – Diamonds",
+                "sub": null
+            },
+            {
+                "code": "08",
+                "description": "Payment related to goods classified as – Steel",
+                "sub": null
+            },
+            {
+                "code": "09",
+                "description": "Payment related to goods classified as – Coal",
+                "sub": null
+            },
+            {
+                "code": "09",
+                "description": "Payment related to goods classified as – Iron ore",
+                "sub": null
+            },
+            {
+                "code": "11",
+                "description": "Payment related to goods Imported via the Post Office",
+                "sub": null
+            }]
+        },
+        {
+            "code": "103",
+            "description": "Imports: (excluding advance payments and not in terms of Import of Undertaking)",
+            "sub": [
+            {
+                "code": "01",
+                "description": "Payment related to goods (excluding capital goods, gold, platinum, crude oil, refined petroleum products, diamonds, steel, coal, iron ore and goods imported via the South African Post Office)",
+                "sub": null
+            },
+            {
+                "code": "02",
+                "description": "Payment related to goods classified as – Capital goods",
+                "sub": null
+            },
+            {
+                "code": "03",
+                "description": "Payment related to goods classified as – Gold",
+                "sub": null
+            },
+            {
+                "code": "04",
+                "description": "Payment related to goods classified as– Platinum",
+                "sub": null
+            },
+            {
+                "code": "05",
+                "description": "Payment related to goods classified as– Crude oil",
+                "sub": null
+            },
+            {
+                "code": "06",
+                "description": "Payment related to goods classified as– Refined petroleum products",
+                "sub": null
+            },
+            {
+                "code": "07",
+                "description": "Payment related to goods classified as – Diamonds",
+                "sub": null
+            },
+            {
+                "code": "08",
+                "description": "Payment related to goods classified as – Steel",
+                "sub": null
+            },
+            {
+                "code": "09",
+                "description": "Payment related to goods classified as – Coal",
+                "sub": null
+            },
+            {
+                "code": "09",
+                "description": "Payment related to goods classified as – Iron ore",
+                "sub": null
+            },
+            {
+                "code": "11",
+                "description": "Payment related to goods Imported via the Post Office",
+                "sub": null
+            }]
+        },
+        {
+            "code": "104",
+            "description": "Imports: (excluding advance payments and not in terms of Import Undertaking)",
+            "sub": [
+            {
+                "code": "01",
+                "description": "Payment related to goods (excluding capital goods, gold, platinum, crude oil, refined petroleum products, diamonds, steel, coal, iron ore and goods imported via the South African Post Office)",
+                "sub": null
+            },
+            {
+                "code": "02",
+                "description": "Payment related to goods classified as – Capital goods",
+                "sub": null
+            },
+            {
+                "code": "03",
+                "description": "Payment related to goods classified as – Gold",
+                "sub": null
+            },
+            {
+                "code": "04",
+                "description": "Payment related to goods classified as– Platinum",
+                "sub": null
+            },
+            {
+                "code": "05",
+                "description": "Payment related to goods classified as– Crude oil",
+                "sub": null
+            },
+            {
+                "code": "06",
+                "description": "Payment related to goods classified as– Refined petroleum products",
+                "sub": null
+            },
+            {
+                "code": "07",
+                "description": "Payment related to goods classified as – Diamonds",
+                "sub": null
+            },
+            {
+                "code": "08",
+                "description": "Payment related to goods classified as – Steel",
+                "sub": null
+            },
+            {
+                "code": "09",
+                "description": "Payment related to goods classified as – Coal",
+                "sub": null
+            },
+            {
+                "code": "09",
+                "description": "Payment related to goods classified as – Iron ore",
+                "sub": null
+            },
+            {
+                "code": "11",
+                "description": "Payment related to goods Imported via the Post Office",
+                "sub": null
+            }]
+        },
+        {
+            "code": "105",
+            "description": "Consumables acquired in port",
+            "sub": null
+        },
+        {
+            "code": "106",
+            "description": "Repayment of trade finance for imports",
+            "sub": null
+        },
+        {
+            "code": "107",
+            "description": "Import payments where the Customs value of the shipment is less than R500",
+            "sub": null
+        },
+        {
+            "code": "108",
+            "description": "Import payments where goods were declared as part of passenger baggage and no MRN is available",
+            "sub": null
+        },
+        {
+            "code": "109",
+            "description": "Payments for goods purchased from non-residents in cases where no physical import will take place",
+            "sub": null
+        },
+        {
+            "code": "110",
+            "description": "Merchanting",
+            "sub": null
+        },
+        {
+            "code": "110",
+            "description": "Reversals / refunds related to the above BOP categories",
+            "sub": null
+        }]
+    },
+    {
+        "category": "Intellectual property and other services",
+        "list": [
+        {
+            "code": "201",
+            "description": "Charges for the use of intellectual property",
+            "sub": null
+        },
+        {
+            "code": "202",
+            "description": "Charges for the use of intellectual property",
+            "sub": null
+        },
+        {
+            "code": "203",
+            "description": "Charges for the use of intellectual property",
+            "sub": null
+        },
+        {
+            "code": "204",
+            "description": "Charges for the use of intellectual property",
+            "sub": null
+        },
+        {
+            "code": "205",
+            "description": "Charges for the use of intellectual property",
+            "sub": null
+        },
+        {
+            "code": "210",
+            "description": "Acquisition of intellectual property (excluding computer related and audio-visual)",
+            "sub": null
+        },
+        {
+            "code": "211",
+            "description": "Acquisition of intellectual property (excluding computer related and audio-visual)",
+            "sub": null
+        },
+        {
+            "code": "212",
+            "description": "Acquisition of intellectual property (excluding computer related and audio-visual)",
+            "sub": null
+        },
+        {
+            "code": "213",
+            "description": "Acquisition of intellectual property (excluding computer related and audio-visual)",
+            "sub": null
+        },
+        {
+            "code": "220",
+            "description": "Research and Development",
+            "sub": null
+        },
+        {
+            "code": "221",
+            "description": "Research and Development",
+            "sub": null
+        },
+        {
+            "code": "225",
+            "description": "Audio-visual and related items",
+            "sub": null
+        },
+        {
+            "code": "226",
+            "description": "Audio-visual and related items",
+            "sub": null
+        },
+        {
+            "code": "230",
+            "description": "Computer software and related items",
+            "sub": null
+        },
+        {
+            "code": "231",
+            "description": "Computer software and related items",
+            "sub": null
+        },
+        {
+            "code": "232",
+            "description": "Computer software and related items",
+            "sub": null
+        },
+        {
+            "code": "233",
+            "description": "Computer software and related items",
+            "sub": null
+        },
+        {
+            "code": "234",
+            "description": "Computer software and related items",
+            "sub": null
+        },
+        {
+            "code": "235",
+            "description": "Computer software and related items",
+            "sub": null
+        },
+        {
+            "code": "236",
+            "description": "Computer software and related items",
+            "sub": null
+        },
+        {
+            "code": "240",
+            "description": "Technical related services ",
+            "sub": [
+            {
+                "code": "01",
+                "description": "Fees for processing done on materials (excluding the below)",
+                "sub": null
+            },
+            {
+                "code": "02",
+                "description": "Gold",
+                "sub": null
+            },
+            {
+                "code": "03",
+                "description": "Platinum",
+                "sub": null
+            },
+            {
+                "code": "04",
+                "description": "Crude oil",
+                "sub": null
+            },
+            {
+                "code": "05",
+                "description": "Refined petroleum products",
+                "sub": null
+            },
+            {
+                "code": "06",
+                "description": "Diamonds",
+                "sub": null
+            },
+            {
+                "code": "07",
+                "description": "Steel",
+                "sub": null
+            },
+            {
+                "code": "08",
+                "description": "Coal",
+                "sub": null
+            },
+            {
+                "code": "09",
+                "description": "Iron Ore",
+                "sub": null
+            }]
+        },
+        {
+            "code": "241",
+            "description": "Technical related services",
+            "sub": null
+        },
+        {
+            "code": "242",
+            "description": "Technical related services",
+            "sub": null
+        },
+        {
+            "code": "243",
+            "description": "Technical related services",
+            "sub": null
+        },
+        {
+            "code": "250",
+            "description": "Travel services",
+            "sub": null
+        },
+        {
+            "code": "251",
+            "description": "Travel services",
+            "sub": null
+        },
+        {
+            "code": "252",
+            "description": "Travel services",
+            "sub": null
+        },
+        {
+            "code": "253",
+            "description": "Travel services",
+            "sub": null
+        },
+        {
+            "code": "254",
+            "description": "Travel services",
+            "sub": null
+        },
+        {
+            "code": "255",
+            "description": "Travel services",
+            "sub": null
+        },
+        {
+            "code": "256",
+            "description": "Travel services",
+            "sub": null
+        },
+        {
+            "code": "257",
+            "description": "Travel services",
+            "sub": null
+        },
+        {
+            "code": "258",
+            "description": "Travel services",
+            "sub": null
+        },
+        {
+            "code": "259",
+            "description": "Travel services",
+            "sub": null
+        },
+        {
+            "code": "260",
+            "description": "Travel services",
+            "sub": null
+        },
+        {
+            "code": "261",
+            "description": "Travel services",
+            "sub": null
+        },
+        {
+            "code": "265",
+            "description": "Telecommunication and Information services",
+            "sub": null
+        },
+        {
+            "code": "266",
+            "description": "Telecommunication and Information services",
+            "sub": null
+        },
+        {
+            "code": "270",
+            "description": "Transportation services - Payment for passenger services",
+            "sub": null
+        },
+        {
+            "code": "271",
+            "description": "Transportation services - Payment for freight services",
+            "sub": null
+        },
+        {
+            "code": "272",
+            "description": "Transportation services - Payment for other transport services",
+            "sub": null
+        },
+        {
+            "code": "273",
+            "description": "Transportation services - Payment for postal and courier services",
+            "sub": null
+        },
+        {
+            "code": "275",
+            "description": "Financial services and or Brokerage",
+            "sub": null
+        },
+        {
+            "code": "276",
+            "description": "Financial services and or Brokerage",
+            "sub": null
+        },
+        {
+            "code": "307",
+            "description": "Financial services and or Brokerage",
+            "sub": null
+        },
+        {
+            "code": "281",
+            "description": "Government services",
+            "sub": null
+        },
+        {
+            "code": "282",
+            "description": "Diplomatic transfers",
+            "sub": null
+        },
+        {
+            "code": "285",
+            "description": "Study related services",
+            "sub": null
+        },
+        {
+            "code": "287",
+            "description": "Payment for other business services",
+            "sub": null
+        },
+        {
+            "code": "288",
+            "description": "Payment for other business services",
+            "sub": null
+        },
+        {
+            "code": "289",
+            "description": "Payment for other business services",
+            "sub": null
+        },
+        {
+            "code": "290",
+            "description": "Payment for other business services",
+            "sub": null
+        },
+        {
+            "code": "291",
+            "description": "Payment for other business services",
+            "sub": null
+        },
+        {
+            "code": "292",
+            "description": "Payment for other business services",
+            "sub": null
+        },
+        {
+            "code": "293",
+            "description": "Payment for other business services",
+            "sub": null
+        },
+        {
+            "code": "294",
+            "description": "Payment for other business services",
+            "sub": null
+        },
+        {
+            "code": "295",
+            "description": "Payment for other business services",
+            "sub": null
+        },
+        {
+            "code": "296",
+            "description": "Payment for other business services",
+            "sub": null
+        },
+        {
+            "code": "297",
+            "description": "Payment for other business services",
+            "sub": null
+        },
+        {
+            "code": "200",
+            "description": "Reversals / refunds related to the above BOP categories (2XX series)",
+            "sub": null
+        }]
+    },
+    {
+        "category": "Income",
+        "list": [
+        {
+            "code": "301",
+            "description": "Dividends",
+            "sub": null
+        },
+        {
+            "code": "302",
+            "description": "Branch Profits",
+            "sub": null
+        },
+        {
+            "code": "303",
+            "description": "Compensation paid by a resident to an employee",
+            "sub": null
+        },
+        {
+            "code": "304",
+            "description": "Compensation paid by a resident to an employee",
+            "sub": null
+        },
+        {
+            "code": "305",
+            "description": "Compensation paid by a resident to an employee",
+            "sub": null
+        },
+        {
+            "code": "306",
+            "description": "Compensation paid by a resident to an employee",
+            "sub": null
+        },
+        {
+            "code": "309",
+            "description": "Interest paid to a non-resident in respect of Loans",
+            "sub": [
+            {
+                "code": "04",
+                "description": "Shareholders loans",
+                "sub": null
+            },
+            {
+                "code": "05",
+                "description": "Third party loans",
+                "sub": null
+            },
+            {
+                "code": "06",
+                "description": "Trade finance loans",
+                "sub": null
+            },
+            {
+                "code": "07",
+                "description": "Bonds",
+                "sub": null
+            },
+            {
+                "code": "08",
+                "description": "Interest paid not in respect of loans",
+                "sub": null
+            }]
+        },
+        {
+            "code": "312",
+            "description": "Fee in respect of inward listed securities derivatives",
+            "sub": null
+        },
+        {
+            "code": "300",
+            "description": "Reversals / refunds related to the above BOP categories (3XX series)",
+            "sub": null
+        }]
+    },
+    {
+        "category": "Transfers of a current nature",
+        "list": [
+        {
+            "code": "402",
+            "description": "Annual contributions",
+            "sub": null
+        },
+        {
+            "code": "403",
+            "description": "Contributions in respect of social security schemes",
+            "sub": null
+        },
+        {
+            "code": "404",
+            "description": "Contributions in respect of foreign charitable, religious and cultural",
+            "sub": null
+        },
+        {
+            "code": "405",
+            "description": "Other donations / aid to a foreign Government",
+            "sub": null
+        },
+        {
+            "code": "406",
+            "description": "Other donations / aid to a foreign private sector",
+            "sub": null
+        },
+        {
+            "code": "407",
+            "description": "Pensions",
+            "sub": null
+        },
+        {
+            "code": "408",
+            "description": "Annuities (pension related)",
+            "sub": null
+        },
+        {
+            "code": "409",
+            "description": "Inheritances",
+            "sub": null
+        },
+        {
+            "code": "410",
+            "description": "Alimony",
+            "sub": null
+        },
+        {
+            "code": "411",
+            "description": "Tax",
+            "sub": [
+            {
+                "code": "01",
+                "description": "Income tax",
+                "sub": null
+            },
+            {
+                "code": "02",
+                "description": "VAT refunds",
+                "sub": null
+            },
+            {
+                "code": "03",
+                "description": "Other",
+                "sub": null
+            }]
+        },
+        {
+            "code": "412",
+            "description": "Insurance premiums - Non-life, Short-term / Life",
+            "sub": null
+        },
+        {
+            "code": "414",
+            "description": "Insurance premiums - Non-life, Short-term / Life",
+            "sub": null
+        },
+        {
+            "code": "413",
+            "description": "Insurance Claims - Non-life, Short-term / Life",
+            "sub": null
+        },
+        {
+            "code": "415",
+            "description": "Insurance Claims - Non-life, Short-term / Life",
+            "sub": null
+        },
+        {
+            "code": "416",
+            "description": "Repatriation of income",
+            "sub": null
+        },
+        {
+            "code": "400",
+            "description": "Reversals / refunds related to the above BOP categories (4XX series)",
+            "sub": null
+        }]
+    },
+    {
+        "category": "Transfers of a current nature",
+        "list": [
+            {
+                "code": "501",
+                "description": "Donations by SA Government or Corporate Entities for fixed assets",
+                "sub": null
+            },
+            {
+                "code": "502",
+                "description": "Donations by SA Government or Corporate Entities for fixed assets",
+                "sub": null
+            },
+            {
+                "code": "503",
+                "description": "Disinvestment of property by a non-resident corporate entity",
+                "sub": null
+            },
+            {
+                "code": "504",
+                "description": "Investment into property by a resident corporate entity",
+                "sub": null
+            },
+            {
+                "code": "510",
+                "description": "Disinvestment of by a non-resident individual",
+                "sub": [
+                {
+                    "code": "01",
+                    "description": "Property",
+                    "sub": null
+                },
+                {
+                    "code": "02",
+                    "description": "Other",
+                    "sub": null
+                }]
+            },
+            {
+                "code": "511",
+                "description": "Capital transfers by South African resident individuals- Not related to the investment allowance",
+                "sub": null
+            },
+            {
+                "code": "512",
+                "description": "Capital transfers by South African resident individuals - in terms of the investment allowance",
+                "sub": [
+                {
+                    "code": "01",
+                    "description": "Shares",
+                    "sub": null
+                },
+                {
+                    "code": "02",
+                    "description": "Bonds",
+                    "sub": null
+                },
+                {
+                    "code": "03",
+                    "description": "Money market Instruments",
+                    "sub": null
+                },
+                {
+                    "code": "04",
+                    "description": "Deposits with a foreign Bank",
+                    "sub": null
+                },
+                {
+                    "code": "05",
+                    "description": "Mutual Funds / Collective Investments Schemes",
+                    "sub": null
+                },
+                {
+                    "code": "06",
+                    "description": "Property",
+                    "sub": null
+                },
+                {
+                    "code": "07",
+                    "description": "Other",
+                    "sub": null
+                }]
+            },
+            {
+                "code": "513",
+                "description": "Investment by a resident individual originating from a local source into an account conducted in foreign currency held at an Authorised Dealer in South Africa",
+                "sub": null
+            },
+            {
+                "code": "500",
+                "description": "Reversals / refunds related to the above BOP categories (5XX series) Does not cover disinvestments",
+                "sub": null
+            }
+
+        ]
+    },
+    {
+        "category": "Financial investments, Disinvestments and Prudential investments",
+        "list": [
+        {
+            "code": "601",
+            "description": "Sale proceeds of Shares paid to a non-resident",
+            "sub": [
+            {
+                "code": "01",
+                "description": "Listed",
+                "sub": null
+            },
+            {
+                "code": "02",
+                "description": "Non-listed",
+                "sub": null
+            }]
+        },
+        {
+            "code": "602",
+            "description": "Disinvestment by a non-resident - Money Market Instruments",
+            "sub": null
+        },
+        {
+            "code": "603",
+            "description": "Disinvestment by a non-resident - Money Market Instruments",
+            "sub": [
+            {
+                "code": "01",
+                "description": "Listed Bonds",
+                "sub": null
+            },
+            {
+                "code": "02",
+                "description": "Non-listed Bonds",
+                "sub": null
+            }]
+        },
+        {
+            "code": "605",
+            "description": "Investment into shares by a resident entity",
+            "sub": [
+            {
+                "code": "01",
+                "description": "Agriculture, hunting, forestry and fishing ",
+                "sub": null
+            },
+            {
+                "code": "02",
+                "description": "Mining, quarrying and exploration",
+                "sub": null
+            },
+            {
+                "code": "03",
+                "description": "Manufacturing",
+                "sub": null
+            },
+            {
+                "code": "04",
+                "description": "Electricity, gas and water supply ",
+                "sub": null
+            },
+            {
+                "code": "05",
+                "description": "Construction",
+                "sub": null
+            },
+            {
+                "code": "06",
+                "description": "Wholesale, retail, repairs, hotel and restaurants",
+                "sub": null
+            },
+            {
+                "code": "07",
+                "description": "Transport and communication",
+                "sub": null
+            },
+            {
+                "code": "08",
+                "description": "Wholesale, retail, repairs, hotel and restaurants",
+                "sub": null
+            },
+            {
+                "code": "09",
+                "description": "Community, social and personal services",
+                "sub": null
+            }]
+        },
+        {
+            "code": "610",
+            "description": "Inward listed securities – Equity",
+            "sub": [
+            {
+                "code": "01",
+                "description": "Individual",
+                "sub": null
+            },
+            {
+                "code": "02",
+                "description": "Corporate",
+                "sub": null
+            },
+            {
+                "code": "03",
+                "description": "Bank",
+                "sub": null
+            },
+            {
+                "code": "04",
+                "description": "Institution",
+                "sub": null
+            }]
+        },
+        {
+            "code": "611",
+            "description": "Inward listed securities – Debt",
+            "sub": [
+            {
+                "code": "01",
+                "description": "Individual",
+                "sub": null
+            },
+            {
+                "code": "02",
+                "description": "Corporate",
+                "sub": null
+            },
+            {
+                "code": "03",
+                "description": "Bank",
+                "sub": null
+            },
+            {
+                "code": "04",
+                "description": "Institution",
+                "sub": null
+            }]
+        },
+        {
+            "code": "612",
+            "description": "Inward listed securities – Derivatives",
+            "sub": [
+            {
+                "code": "01",
+                "description": "Individual",
+                "sub": null
+            },
+            {
+                "code": "02",
+                "description": "Corporate",
+                "sub": null
+            },
+            {
+                "code": "03",
+                "description": "Bank",
+                "sub": null
+            },
+            {
+                "code": "04",
+                "description": "Institution",
+                "sub": null
+            }]
+        },
+        {
+            "code": "615",
+            "description": "Investment by resident Institutional Investor",
+            "sub": [
+            {
+                "code": "01",
+                "description": "Asset Manager",
+                "sub": null
+            },
+            {
+                "code": "02",
+                "description": "Collective Investment Scheme",
+                "sub": null
+            },
+            {
+                "code": "03",
+                "description": "Retirement Fund",
+                "sub": null
+            },
+            {
+                "code": "04",
+                "description": "Life Linked",
+                "sub": null
+            },
+            {
+                "code": "05",
+                "description": "Life Non-Linked",
+                "sub": null
+            }]
+        },
+        {
+            "code": "616",
+            "description": "Bank Prudential Investment",
+            "sub": null
+        },
+        {
+            "code": "600",
+            "description": "Reversals / refunds related to the above BOP categories (6XX series)",
+            "sub": null
+        }]
+    },
+    {
+        "category": "Derivatives (excluding inward listed)",
+        "list": [
+        {
+            "code": "701",
+            "description": "Options",
+            "sub": [
+            {
+                "code": "01",
+                "description": "Options – listed",
+                "sub": null
+            },
+            {
+                "code": "02",
+                "description": "Options – unlisted",
+                "sub": null
+            }]
+        },
+        {
+            "code": "702",
+            "description": "Futures",
+            "sub": [
+            {
+                "code": "01",
+                "description": "Futures – listed",
+                "sub": null
+            },
+            {
+                "code": "02",
+                "description": "Futures – unlisted",
+                "sub": null
+            }]
+        },
+        {
+            "code": "703",
+            "description": "Warrants",
+            "sub": [
+            {
+                "code": "01",
+                "description": "Warrants – listed",
+                "sub": null
+            },
+            {
+                "code": "02",
+                "description": "Warrants – unlisted",
+                "sub": null
+            }]
+        },
+        {
+            "code": "704",
+            "description": "Gold",
+            "sub": [
+            {
+                "code": "01",
+                "description": "Gold – listed",
+                "sub": null
+            },
+            {
+                "code": "02",
+                "description": "Gold – unlisted",
+                "sub": null
+            }]
+        },
+        {
+            "code": "701-01 / 02",
+            "description": "Derivative not specified above – listed / unlisted",
+            "sub": null
+        },
+        {
+            "code": "700",
+            "description": "Reversals / refunds related to the above BOP categories (7XX series)",
+            "sub": null
+        }]
+    },
+    {
+        "category": "Loans",
+        "list": [
+        {
+            "code": "801",
+            "description": "Repayment of trade finance drawn down in South Africa",
+            "sub": null
+        },
+        {
+            "code": "802",
+            "description": "Repayment of an international Bond drawn down",
+            "sub": null
+        },
+        {
+            "code": "803",
+            "description": "Repayment by a resident of a loan received from a non-resident shareholder",
+            "sub": null
+        },
+        {
+            "code": "804",
+            "description": "Repayment by a resident of a loan received from a non-resident third party",
+            "sub": null
+        },
+        {
+            "code": "810",
+            "description": "Loans granted by residents to residents temporarily abroad",
+            "sub": null
+        },
+        {
+            "code": "815",
+            "description": "Loans granted by an Individual to a non-resident",
+            "sub": null
+        },
+        {
+            "code": "816",
+            "description": "Study loan to a non-resident",
+            "sub": null
+        },
+        {
+            "code": "817",
+            "description": "Shareholders loan to a non-resident",
+            "sub": null
+        },
+        {
+            "code": "818",
+            "description": "Third party loan to a non-resident (excluding shareholders)",
+            "sub": null
+        },
+        {
+            "code": "819",
+            "description": "Trade finance to a non-resident",
+            "sub": null
+        }]
+    },
+    {
+        "category": "Miscellaneous payments",
+        "list": [
+        {
+            "code": "833",
+            "description": "Credit/Debit card company settlement or Money remitter settlements",
+            "sub": null
+        },
+        {
+            "code": "830",
+            "description": "Details of payments not classified - Payment not included in any of the above BOP categories",
+            "sub": null
+        },
+        {
+            "code": "800",
+            "description": "Reversals / refunds related to the above BOP categories (8XX series)",
+            "sub": null
+        },
+        {
+            "code": "800",
+            "description": "Non-reportable transactions ZZ1",
+            "sub": null
+        }]
+    }]
+}
